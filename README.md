@@ -26,5 +26,7 @@ Installation:
 6. Fire setup.php and setup admin user  
 7. Delete setup.php  
 8. Delete table.php  
-9. Good to go!  
+9. Good to go!
+
+Login, signup and password reset monitoring through Slack can be setup by following the below steps:
 
