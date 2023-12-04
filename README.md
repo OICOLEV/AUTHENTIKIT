@@ -1,7 +1,7 @@
 # AUTHENTIKIT --coming soon!--
 Authentication for PHP projects. A good starting point for projects that need a secure user authentication with reliable email delivery.  
 
-Demo: https://demo.oicolev.com/authentikit  
+Demo: https://demo.oicolev.com/authentikitv1  
 License: GPLv3
 
 
